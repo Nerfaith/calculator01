@@ -1,2 +1,2 @@
 # calculator01
-first try of a calculator
+First try of a calculator. Hopefully I succeed.
